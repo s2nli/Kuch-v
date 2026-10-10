@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "sachin-arora-ssc-computer",
+      "name": "SSC CGL-CHSL 2026 – Full Computer Course",
+      "byName": "Sachin Arora Sir · Arora Educator",
+      "language": "Hinglish",
+      "previewImage": "assets/batch-sachin-arora-ssc-computer.webp",
+      "type": "CW_BATCH",
+      "category": "ssc",
+      "slug": "sachin-arora-ssc-computer",
+      "lectureCount": 69,
+      "noteCount": 70,
+      "subBatches": []
+    }
+  ]
+}
